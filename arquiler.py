@@ -1,7 +1,7 @@
 print('\n')
 print('Bienvenido a mi calculadora de alquileres.')
 print('------------------------------------------')
-print('Vicente López 551, 7C')
+print('Vicente López --- ')
 print('Inicio de contrato 1 de Marzo 2024. Ajuste trimestral por IPC')
 print('Valor Inicial:                  $330.000')
 print('Valor actualizado a Junio:      $415.300 (25.86%)')
